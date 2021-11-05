@@ -1,9 +1,6 @@
 ### Oi, Eu sou o Wagner Gabriel 👋🏾
 ##
-- 🗓 Eu tenho 25 anos.
-- 🎓 Estou cursando ciencia da computação na Universidade Veiga de Almeida (Conclusão em 2022.1). 
-- 📚 Atualmente estou aprendendo ferramentas para desenvolvimento web com Django, HTML, CSS e JavaScript.
-- 💡 No momento, estou aberto para receber propostas.
+Eu tenho 25 anos, estou cursando ciencia da computação na Universidade Veiga de Almeida (Conclusão em 2022.1). Atualmente estou aprendendo ferramentas para desenvolvimento web com Django, Java, HTML, CSS e JavaScript e no momento, estou aberto para receber propostas.
 
 <div align="center">
   <a href="https://github.com/wagnergbriel">
@@ -24,6 +21,7 @@
     <img align="center" alt="wagner-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" alt="wagner-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" alt="wagner-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="wagner-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
 
   ##
