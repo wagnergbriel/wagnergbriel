@@ -1,6 +1,8 @@
-### Oi, Eu sou o Wagner Gabriel 👋🏾
+### Hi, I'm Wagner Gabriel 👋🏾
 ##
-Eu tenho 25 anos, estou cursando ciencia da computação na Universidade Veiga de Almeida (Conclusão em 2022.1). Atualmente estou aprendendo ferramentas para desenvolvimento web com Django, Java, HTML, CSS e JavaScript e no momento, estou aberto para receber propostas.
+[PT-BR] Eu tenho 25 anos, estou cursando ciencia da computação na Universidade Veiga de Almeida (Conclusão em 2022.1). Atualmente estou aprendendo ferramentas para desenvolvimento web com Django, Java, HTML, CSS e JavaScript e no momento, estou aberto para receber propostas.
+
+[EN-US] I am 25 years old, studying computer science at Universidade Veiga de Almeida (Conclusion in 2022.1). I'm currently learning tools for web development with Django, Java, HTML, CSS and JavaScript and at the moment, I'm open to receive proposals.
 
 <div align="center">
   <a href="https://github.com/wagnergbriel">
@@ -10,7 +12,7 @@ Eu tenho 25 anos, estou cursando ciencia da computação na Universidade Veiga d
   
 ##
 
-### Ferramentas 💻
+### Tools 💻
   <div style="display: inline_block"><br>
     <img align="center" alt="wagner-linux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="wagner-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,8 +27,9 @@ Eu tenho 25 anos, estou cursando ciencia da computação na Universidade Veiga d
   </div>
 
   ##
-### Contato 📞
+### Contact 📞
   <div> 
   <a href = "mailto:wagnergabriel220596@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wagner-gabriel-dos-santos-silva-5b329715b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wagner-gabriel-dos-santos-silva-5b329715b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Devto-%230077B5?style=for-the-badge&logo=devto&logoColor=white" target="_blank"></a>
 </div>
