@@ -31,5 +31,6 @@
   <div> 
   <a href = "mailto:wagnergabriel220596@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-gabriel-dos-santos-silva-5b329715b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-%230077B5?style=for-the-badge&logo=dev_to&logoColor=white" target="_blank"></a>
+  <a href="https://dev.to/wagnergbriel" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/wagnergbriel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
