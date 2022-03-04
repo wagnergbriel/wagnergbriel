@@ -1,8 +1,8 @@
 ### Hi, I'm Wagner Gabriel 👋🏾
 ##
-[PT-BR] Eu tenho 25 anos, estou cursando ciencia da computação na Unicarioca (Conclusão em 2022.2). Atualmente estou aprendendo ferramentas para desenvolvimento web com Django, Java, HTML, CSS e JavaScript e no momento, estou aberto para receber propostas.
+[PT-BR] Eu tenho 25 anos, estou cursando ciencia da computação na Unicarioca (Conclusão em 2023.2). Atualmente estou aprendendo ferramentas para desenvolvimento web com Django, Java, HTML, CSS e JavaScript e no momento, estou aberto para receber propostas.
 
-[EN-US] I am 25 years old, studying computer science at Unicarioca (Conclusion in 2022.1). I'm currently learning tools for web development with Django, Java, HTML, CSS and JavaScript and at the moment, I'm open to receive proposals.
+[EN-US] I am 25 years old, studying computer science at Unicarioca (Conclusion in 2023.2). I'm currently learning tools for web development with Django, Java, HTML, CSS and JavaScript and at the moment, I'm open to receive proposals.
 
 <div align="center">
   <a href="https://github.com/wagnergbriel">
