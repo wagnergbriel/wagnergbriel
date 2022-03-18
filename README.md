@@ -33,5 +33,5 @@
   <a href="https://www.linkedin.com/in/wagner-gabriel-dos-santos-silva-5b329715b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/wagnergbriel" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/wagnergbriel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <iframe src="https://hackerrank-badge.herokuapp.com/wagnergabriel?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+    <a href="https://www.hackerrank.com/wagnergbriel?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/hackerrank-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
