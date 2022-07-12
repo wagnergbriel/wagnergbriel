@@ -1,6 +1,6 @@
 ### Hi, I'm Wagner Gabriel 👋🏾
 ##
-[PT-BR] Eu tenho 26 anos, estou atualmente estou cursando ciência da computação no Centro Universitário Unicarioca com prazo de conclusão para Dezembro 2023 e estou estagiando na função de analista de dados. Anteriormente, fui estagiário por 1 ano desenvolvendo e corrigindo scripts de automação de tarefas com Python, manuseando banco de dados SQL e NO-SQL. No momento, busco aprofundar o conhecimento em  ferramentas de desenvolvimento de software que possam ser aproveitadas também em análise de dados.
+[PT-BR] Eu tenho 26 anos, atualmente estou cursando ciência da computação no Centro Universitário Unicarioca com prazo de conclusão para Dezembro 2023 e estou estagiando na função de analista de dados. Anteriormente, fui estagiário por 1 ano desenvolvendo e corrigindo scripts de automação de tarefas com Python, manuseando banco de dados SQL e NO-SQL. No momento, busco aprofundar o conhecimento em  ferramentas de desenvolvimento de software que possam ser aproveitadas também em análise de dados.
 
 [EN-US] I'm 26 years old, I'm currently studying computer science at Centro Universitário Unicarioca with completion deadline for December 2023 and I'm intern in the role of data analyst. Previously, I was an intern for 1 year developing and correcting task automation scripts with Python, handling SQL and NO-SQL databases. At the moment, I seek to deepen my knowledge of software development tools that can also be used in data analysis.
 
