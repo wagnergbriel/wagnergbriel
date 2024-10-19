@@ -5,8 +5,7 @@ Atualmente sou **Cientista de Dados Jr** na equipe de **Data Quality**. Meu foco
 
 - 🌱 **Atualmente estudando**: Machine Learning, LangChain e técnicas avançadas de manipulação de dados.
 - 📚 Apaixonado por ajudar outras pessoas a melhorar suas vidas através da educação e do crescimento pessoal.
-
----
+  
 
 ### 🛠️ **Habilidades Técnicas**
 - **Programação**: Python, SQL, PySpark
@@ -15,7 +14,6 @@ Atualmente sou **Cientista de Dados Jr** na equipe de **Data Quality**. Meu foco
 - **Engenharia de Dados**: Databricks, Apache Spark, Airflow
 - **Outros**: Git, Spacy
 
----
 
 ### 🌟 **Projetos Atuais**
 - **Classificação de Produtos com NLP**: Trabalhando na melhoria de algoritmos de classificação de produtos usando técnicas de NLP de ponta.
@@ -23,20 +21,16 @@ Atualmente sou **Cientista de Dados Jr** na equipe de **Data Quality**. Meu foco
 - **Machine Learning**: Estudando modelos e algoritmos de ML para aplicá-los em diversos cenários de dados.
 - **Criação de Conteúdo**: Criando conteúdo para um blog, com o objetivo de inspirar as pessoas a estudar, buscar virtudes e fazer escolhas responsáveis.
 
----
 
 ### 🚀 **Projetos Passados**
-- **Enriquecimento de Dados de CNPJ**: Desenvolvi um pipeline para extrair, transformar e carregar dados da BrasilAPI no Databricks.
 - **Geração de Embeddings com PySpark**: Gerei embeddings a partir de grandes conjuntos de dados de texto usando PySpark e Pandas UDF.
 
----
 
 ### 🎯 **Objetivos**
 - Aprimorar meu conhecimento em **Machine Learning** e **NLP**.
 - Implementar técnicas de **Retrieval-Augmented Generation (RAG)**.
 - Compartilhar meu conhecimento por meio de conteúdo educacional e mentoria.
 
----
 
 ### 💡 Vamos nos conectar!
 - [LinkedIn](https://www.linkedin.com/in/wagner-gabriel-dos-santos-silva/)
